@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32384884-09da-4745-b2ae-ca89f01ab98c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.3.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VNnqFlen5nnkvEXO4DpObUIw8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/imdb/tests/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Qardio - Copy\src\test\java\com\imdb\tests\resources" />
+      <recent name="D:\Qardio\src\test\java\com\imdb\tests\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Qardio - Copy/src/test/java/com/imdb/tests/TestNG.xml">
+    <configuration name="SampleSauceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.demo.SampleSauceTest" />
+      <module name="SeleniumGridWithMulipleThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFakePANData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.qardio.project.TestFakePANData" />
+      <module name="SeleniumGridWithMulipleThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.qardio.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Qardio - Copy/src/test/java/com/imdb/tests/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridWithMulipleThread" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/imdb/tests/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImdbTests.createAccountPositiveTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumGridWithMulipleThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.imdb.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.imdb.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.imdb.tests.ImdbTests" />
+      <option name="METHOD_NAME" value="createAccountPositiveTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Qardio - Copy/src/test/java/com/imdb/tests/TestNG.xml" />
+        <item itemvalue="Application.SampleSauceTest" />
+        <item itemvalue="Application.TestFakePANData" />
+        <item itemvalue="TestNG.ImdbTests.createAccountPositiveTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32384884-09da-4745-b2ae-ca89f01ab98c" name="Default Changelist" comment="" />
+      <created>1577102608619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577102608619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578896543267">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1578896543267" />
+    <state x="412" y="114" key="FileChooserDialogImpl" timestamp="1583579977611">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="114" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583579977611" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1583582026590">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583582026590" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1583582026590">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583582026590" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1583582026590">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583582026590" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1583582026590">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583582026590" />
+    <state x="350" y="75" key="NewModule_or_Project.wizard" timestamp="1583579979301">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="350" y="75" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1583579979301" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1578897022912">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1578897022912" />
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1582036720648">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1582036720648" />
+    <state x="390" y="3" width="586" height="732" key="find.popup" timestamp="1583582344796">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="3" width="586" height="732" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1583582344796" />
+    <state x="65" y="74" key="new project wizard" timestamp="1579099183007">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="74" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1579099183007" />
+    <state x="425" y="4" key="refactoring.ChangeSignatureDialog" timestamp="1583579354819">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="425" y="4" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1583579354819" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1583581599756">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583581599756" />
+  </component>
+</project>

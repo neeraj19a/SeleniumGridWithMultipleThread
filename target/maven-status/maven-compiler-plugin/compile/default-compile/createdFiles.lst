@@ -1,0 +1,10 @@
+com\imdb\tests\ImdbTests.class
+com\imdb\pages\ImdbAccountCreationLandingPage.class
+com\imdb\pages\ImdbCreateAccountPage$1.class
+com\mailbox\pages\MailBox.class
+com\imdb\pages\ImdbHomePage.class
+com\imdb\pages\ImdbSignInPage.class
+com\qardio\project\BaseTest.class
+demo\SampleSauceTest.class
+com\imdb\pages\ImdbCreateAccountPage.class
+com\qardio\project\BaseTest$1.class

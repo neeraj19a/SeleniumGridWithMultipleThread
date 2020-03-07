@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- Specify the test suite name -->
+<suite name="ImdbTestCases" annotations="JDK">
+
+	<test name="CreateAccount">
+		<classes>
+			<class name="com.imdb.tests.ImdbTests" />
+			<methods>
+				<include name="createAccountPositiveTestCase"></include>
+				<include name="createAccountPasswordMisMatch"></include>
+				<include name="createAccountInvalidEmailAddress"></include>
+				<include name="createAccountWithoutMandatoryFields"></include>
+				<include name="validateHyperLinksOnCreateAccountPage"></include>
+			</methods>
+		</classes>
+	</test>
+
+</suite>

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 1, Errors: 0, Skipped: 14, Time elapsed: 2.171 sec <<< FAILURE! - in TestSuite
+setup(com.imdb.tests.ImdbTests)  Time elapsed: 1.727 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\NEERAJ\workspace\Qardio\.\src\test\java\resources\chromedriver.exe
+

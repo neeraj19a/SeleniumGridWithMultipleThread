@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="com.gurpreet.project.Tinder">
+        <methods>
+          <include name="testJabong1"/>
+          <include name="testJabong"/>
+          <include name="setUp"/>
+          <include name="testJabong2"/>
+        </methods>
+      </class> <!-- com.gurpreet.project.Tinder -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

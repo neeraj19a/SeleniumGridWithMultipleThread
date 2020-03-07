@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [CS_Regression]" parallel="tests">
+  <parameter name="Device_ID" value="TA93305G0L"/>
+  <test name="Device_MotoXplay(failed)" parallel="tests">
+    <parameter name="Device_ID" value="ZY2227L635"/>
+    <classes>
+      <class name="com.gurpreet.project.Tinder">
+        <methods>
+          <include name="setupcap"/>
+          <include name="setupcap"/>
+          <include name="testTinder"/>
+        </methods>
+      </class> <!-- com.gurpreet.project.Tinder -->
+    </classes>
+  </test> <!-- Device_MotoXplay(failed) -->
+  <test name="Device_MotoG(failed)" parallel="tests">
+    <parameter name="Device_ID" value="TA93305G0L"/>
+    <classes>
+      <class name="com.gurpreet.project.Tinder">
+        <methods>
+          <include name="setupcap"/>
+          <include name="setupcap"/>
+          <include name="testTinder"/>
+        </methods>
+      </class> <!-- com.gurpreet.project.Tinder -->
+    </classes>
+  </test> <!-- Device_MotoG(failed) -->
+</suite> <!-- Failed suite [CS_Regression] -->

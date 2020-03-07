@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SnapdealTests]">
+  <test name="Search(failed)">
+    <classes>
+      <class name="com.snapdeal.tests.SnapdealTests">
+        <methods>
+          <include name="teardown"/>
+          <include name="searchProductWithBestRatingCount"/>
+          <include name="setup"/>
+          <include name="searchwithTwoSectionAndSixProduct"/>
+          <include name="searchwithoneSectionAndthirtyRupeesProduct"/>
+          <include name="searchwithOneSectionAndOneProduct"/>
+          <include name="searchwithOneSectionandfourProducts"/>
+          <include name="searchwithTwoSectionAndfiveProduct"/>
+        </methods>
+      </class> <!-- com.snapdeal.tests.SnapdealTests -->
+    </classes>
+  </test> <!-- Search(failed) -->
+</suite> <!-- Failed suite [SnapdealTests] -->
