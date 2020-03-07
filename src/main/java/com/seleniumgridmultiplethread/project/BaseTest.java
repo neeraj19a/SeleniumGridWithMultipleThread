@@ -15,7 +15,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class BaseTest {
-
+    //Declare ThreadLocal Driver (ThreadLocalMap) for ThreadSafe Tests
     protected static ThreadLocal<RemoteWebDriver> driver = new ThreadLocal<>();
     public CapabilityFactory capabilityFactory = new CapabilityFactory();
     private Actions actions = null;
